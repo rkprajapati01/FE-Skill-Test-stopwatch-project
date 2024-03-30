@@ -49,7 +49,7 @@
 //     clearInterval(runningTimer);
 // }
 
-// function resetTimer() {
-//     document.getElementById('timeText').textContent = "00:00:00";
-// }
+function resetTimer() {
+    document.getElementById('timeText').textContent = "00:00:00";
+}
 
