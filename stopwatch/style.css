@@ -18,12 +18,8 @@
 
 }
 
-.show {
-    display: block;
-}
-
 #container {
-    background-image: url("sw.png");
+    background-image: url("/utilities/sw.png");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,5 +59,9 @@ button {
 }
 
 button:hover {
-    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.2), 0 17px 50px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 6px 19px 5px rgb(57, 31, 31);
+}
+
+.active {
+    box-shadow: 0px 6px 19px 5px rgb(57, 31, 31);
 }
