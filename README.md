@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-     git clone https://github.com/rkprajapati01/myMeal-App
+     git clone https://github.com/rkprajapati01/FE-Skill-Test-stopwatch-project.git
     ```
 2. Open the project directory and navigate to the `index.html` file.
 
@@ -52,6 +52,6 @@ Contributions are welcome! If you'd like to contribute to this project
 
 ## Screenshot
 
-### Home Page
+### Stop and Watch
 
-![Home Page](utilities/home.png)
+![Home Page](stopwatch/utilities/stopwatch.png)
