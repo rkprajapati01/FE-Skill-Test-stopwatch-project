@@ -13,6 +13,10 @@ let resetEl = document.getElementById('resetBtn');
 let containerEl = document.getElementById('container');
 
 // Event listening
+document.addEventListener('DOMContentLoaded', () => {
+    updateBackground(0);
+})
+
 startEl.addEventListener('mousedown', () => {
     updateBackground(1);
     if (!timerRunningStatus) {
