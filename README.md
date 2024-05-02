@@ -2,6 +2,8 @@
 
 This is a simple timer web application built using vanilla HTML, CSS, and JavaScript. The app allows users to start, stop, and reset a timer with hours, minutes, seconds, and milliseconds precision.
 
+Go to hosted page from here [stopandwatch](https://rkprajapati01.github.io/Stopwatch-project/)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
