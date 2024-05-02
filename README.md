@@ -54,4 +54,4 @@ Contributions are welcome! If you'd like to contribute to this project
 
 ### Stop and Watch
 
-![Home Page](stopwatch/utilities/stopwatch.png)
+![Home Page](utilities/stopwatch.png)
